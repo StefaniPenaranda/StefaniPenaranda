@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Stefani Peñaranda</h1>
 <h3 align="center">A passionate frontend developer💛</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stefanipenaranda&label=Profile%20views&color=0e75b6&style=flat" alt="stefanipenaranda" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stefanipenaranda" alt="stefanipenaranda" /></a> </p>
-
 - 🌱 I’m currently learning **Angular y MySQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/StefaniPenaranda?tab=repositories](https://github.com/StefaniPenaranda?tab=repositories)
 
-- 💬 Ask me about **👩🏻‍💻 Soy bachiller en ciencia política y desarrollo Front-end por Laboratoria💛. 🎈 Mi mayor pasion es el enfoque de la tecnologia e investigacion unidas. Como desarrolladora Front-end, me gusta desarrollar proyectos que sean soluciones para otras personas 📲. 💛🎈🗓️💛🖇️💡✨🌸👾 Mi objetivo es tener un aprendizaje continuo de nuevas tecnologías que me permitan tener un mejor perfil en tecnologia.**
+- 💬 Ask me about **👩🏻‍💻 Soy bachiller en ciencia política y desarrollo Front-end por Laboratoria💛. 
+- 🎈 Mi mayor pasion es el enfoque de la tecnologia e investigacion unidas. Como desarrolladora Front-end, me gusta desarrollar proyectos que sean soluciones para otras personas 📲. 💛🎈🗓️💛🖇️💡✨🌸
+- 👾 Mi objetivo es tener un aprendizaje continuo de nuevas tecnologías que me permitan tener un mejor perfil en tecnologia.**
 
 - 📫 How to reach me **pstefanipm@gmail.com**
 
