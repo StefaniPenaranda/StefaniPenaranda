@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Stefani Peñaranda</h1>
 <h3 align="center">A passionate frontend developer💛</h3>
 
+- 💬 Ask me about **👩🏻‍💻 Soy bachiller en ciencia política y desarrollo Front-end por Laboratoria💛
 - 🌱 I’m currently learning **Angular y MySQL**
-
 - 👨‍💻 All of my projects are available at [https://github.com/StefaniPenaranda?tab=repositories](https://github.com/StefaniPenaranda?tab=repositories)
-
-- 💬 Ask me about **👩🏻‍💻 Soy bachiller en ciencia política y desarrollo Front-end por Laboratoria💛. 
-- 🎈 Mi mayor pasion es el enfoque de la tecnologia e investigacion unidas. Como desarrolladora Front-end, me gusta desarrollar proyectos que sean soluciones para otras personas 📲. 💛🎈🗓️💛🖇️💡✨🌸
-- 👾 Mi objetivo es tener un aprendizaje continuo de nuevas tecnologías que me permitan tener un mejor perfil en tecnologia.**
-
+- 🎈 Mi mayor pasion es el  📲. 💛🎈🗓️💛🖇️💡✨🌸
+- 👾 Mi objetivo e.**
 - 📫 How to reach me **pstefanipm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
