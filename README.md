@@ -1,12 +1,13 @@
-<h1 align="center">Hi 👋, I'm Stefani Peñaranda</h1>
-<h3 align="center">A passionate frontend developer💛</h3>
+<h1 align="center">Hola 👋, soy Stefani Peñaranda</h1>
+<h3 align="center"> frontend developer💛 y politóloga</h3>
 
-- 💬 Ask me about **👩🏻‍💻 Soy bachiller en ciencia política y desarrollo Front-end por Laboratoria💛
-- 🌱 I’m currently learning **Angular y MySQL**
-- 👨‍💻 All of my projects are available at [https://github.com/StefaniPenaranda?tab=repositories](https://github.com/StefaniPenaranda?tab=repositories)
+- 💬 Acerca de mi  
+- **👩🏻‍💻 Soy bachiller en ciencia política y desarrollo Front-end por Laboratoria💛
+- 🌱 Actualmente estoy aprendiendo **Angular y MySQL**
+- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/StefaniPenaranda?tab=repositories](https://github.com/StefaniPenaranda?tab=repositories)
 - 🎈 Mi mayor pasion es el  📲. 💛🎈🗓️💛🖇️💡✨🌸
-- 👾 Mi objetivo e.**
-- 📫 How to reach me **pstefanipm@gmail.com**
+- 👾 Mi objetivo .**
+- 📫 Cómo llegar a mí **pstefanipm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
