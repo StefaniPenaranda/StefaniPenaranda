@@ -5,8 +5,8 @@
 - **👩🏻‍💻 Soy bachiller en ciencia política y desarrollo Front-end por Laboratoria💛
 - 🌱 Actualmente estoy aprendiendo **Angular y MySQL**
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/StefaniPenaranda?tab=repositories](https://github.com/StefaniPenaranda?tab=repositories)
-- 🎈 Mi mayor pasion es el  📲. 💛🎈🗓️💛🖇️💡✨🌸
-- 👾 Mi objetivo .**
+- 🎈 Mi mayor pasion es el  descubrir cosas nuevas ✨🌸.
+- 👾 Mi objetivo es que todos tengamos acceso a una educación de calidad.
 - 📫 Cómo llegar a mí **pstefanipm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
